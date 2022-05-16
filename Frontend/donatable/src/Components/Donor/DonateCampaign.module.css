@@ -1,0 +1,14 @@
+.header {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.addBtnStyle {
+    margin-bottom: 0.5rem;
+}
+
+.confirmBtnStyle {
+    margin-top: 2rem;
+    text-align: right;
+}

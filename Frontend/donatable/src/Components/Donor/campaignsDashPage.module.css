@@ -1,0 +1,32 @@
+.contentWrapper {
+    background: rgb(255, 255, 255);
+    font-size: 17px;
+}
+
+.cardImgStyle {
+    height: 300px;
+    object-fit: fill;
+}
+
+.cardOrgStyle {
+    margin-bottom: 15px;
+    color: #A9A9A9;
+}
+
+.cardAvatarStyle {
+    margin-right: 15px;
+}
+
+.cardDescStyle {
+    margin-top: 10px;
+    text-align: justify;
+}
+
+.cardProgressStyle {
+    margin-top: 30px;
+}
+
+.progressCounter {
+    text-align: right;
+    color: #A9A9A9;
+}

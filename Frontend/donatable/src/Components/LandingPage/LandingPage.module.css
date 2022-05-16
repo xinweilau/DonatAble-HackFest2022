@@ -1,0 +1,84 @@
+.pageStyle {
+    margin: 3rem auto;
+    width: 90%;
+    background-color: white;
+}
+
+.bgImg {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: grey ;
+    margin-top: 3rem;
+}
+
+.campaignHeader {
+    font-size: 2rem;
+    font-weight: bold;
+    margin-bottom: 1.5rem;
+}
+
+.introMsg1 {
+    font-size: 3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 12rem;
+    margin-bottom: 6rem;
+    color: #FF70A6;
+}
+
+.introMsg2 {
+    font-size: 2rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 4rem;
+    color: white;
+}
+
+.introMsg3 {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+    color: white;
+}
+
+.introMsg5 {
+    text-align: center;
+    margin-top: 6rem;
+    margin-bottom: 12rem;
+}
+
+.arrowStyle{
+    font-size: 20px;
+}
+
+.subMsg {
+    font-size: 1.9rem;
+    color: #FF70A6;
+}
+
+.buttonStyle {
+    margin: 0.5rem;
+    /* color: white; */
+    /* background-color: #FF8FAB;
+    border-color: #FF8FAB; */
+    font-weight: bold;
+    height: 4rem;
+    width: 21rem;
+    font-size: 1.7rem;
+}
+
+/* .buttonStyle:hover {
+    color: white;
+    background: #FFB3C6;
+    border-color: #FFB3C6;
+}
+
+.buttonStyle:focus {
+    color: white;
+    background: #FFB3C6;
+    border-color: #FFB3C6;
+} */

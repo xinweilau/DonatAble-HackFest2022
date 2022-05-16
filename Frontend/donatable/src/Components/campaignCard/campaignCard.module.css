@@ -1,0 +1,56 @@
+.cardImgStyle {
+    height: 300px;
+    object-fit: fill;
+}
+
+.cardOrgStyle {
+    margin-bottom: 15px;
+}
+
+.cardAvatarStyle {
+    margin-right: 15px;
+}
+
+.cardDescStyle {
+    margin-top: 1rem;
+    text-align: justify;
+    max-height: 200px;
+    min-height: 200px;
+}
+
+.calendarStyle {
+    display: flex;
+    flex-flow: row nowrap;
+    gap: 10px;
+    align-items: center;
+
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.cardHeader {
+    font-size: 1.3rem;
+    font-weight: bold;
+    margin-bottom: 1rem;
+}
+
+.cardProgressStyle {
+    margin-top: 30px;
+}
+
+.cardDonateBtn {
+    margin-top: 10px;
+}
+
+.progressCounter {
+    text-align: right;
+    color: #a9a9a9;
+}
+
+.itemCounter {
+    text-align: left;
+    color: #030303;
+    font-weight: bold;
+    font-size: 1.2rem;
+    margin-bottom: 2rem;
+}

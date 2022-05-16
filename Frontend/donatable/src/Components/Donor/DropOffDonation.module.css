@@ -1,0 +1,20 @@
+.header {
+    font-weight: bold;
+    font-size: 2rem;
+    margin-bottom: 2rem;
+}
+
+.desc {
+    font-size: 1rem;
+}
+
+.uploadHeader {
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+    font-weight: bold;
+    font-size: 1.2rem;
+}
+
+.doneBtn {
+    margin: 2rem;
+}
